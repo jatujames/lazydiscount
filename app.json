@@ -1,0 +1,21 @@
+{
+  
+  "expo": {
+    "sdkVersion": "20.0.0",
+    "name": "lazydiscount",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    //"slug": "your-app-slug",
+    "ios": {
+      "bundleIdentifier": "com.lazydiscount.lazydiscount"
+    },
+    "android": {
+      "package": "com.lazydiscount.lazydiscount"
+    },
+    "androidStatusBar" : {
+      "barStyle" : "dark-content",
+      "backgroundColor" : "#FFF"
+    }
+   }
+}
+
